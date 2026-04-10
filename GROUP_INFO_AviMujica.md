@@ -41,7 +41,7 @@ Emotions may be unstable, but the system remains under control.
 
 ## Group Projects
 - **(group) Final project:** https://github.com/F1u0rite/final-project
-- **VO:** https://github.com/f1u0rite
+- **VLFM:** https://github.com/F1u0rite/my_vlfm
 - **Opensplating:** https://github.com/billyTryToCode
 - **U-net:** https://github.com/BHBAllen
 
