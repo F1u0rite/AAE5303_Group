@@ -24,7 +24,7 @@ Emotions may be unstable, but the system remains under control.
 - **Brief Introduction:** Haoran focuses on visual perception and tracking, with particular interest in vision-based target tracking and state estimation for aerial systems.
 - **(individual) Assignment 1:** https://github.com/BHBAllen/assignment1
 - **(individual) Assignment 2:** https://github.com/BHBAllen/assignment2
-- **Reflection Report:**
+- **Reflection Report:** https://github.com/BHBAllen/AAE5303-report
 
 ### Member 2
 - **Student ID:** 25043507G
