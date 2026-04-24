@@ -24,7 +24,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **(individual) Assignment 1:** https://github.com/SB213wcsndm/PolyU-AAE5303-assignment-1-template.git
 - **(individual) Assignment 2:** https://github.com/SB213wcsndm/AAE5303_assignment2_orbslam3_demo-.git
 - **(individual) Reflection Report:** https://github.com/SB213wcsndm/AAE5303_Reflection_Report
-- **(individual) Final Qualitative Report (VO):** 
+- **(individual) Final Qualitative Report:** https://github.com/SB213wcsndm/AAE5303_Final_Qualitative_Report
 
 ### Member 3
 - **Student ID:** 25128392G
@@ -43,5 +43,5 @@ The KISS principle in coding (Keep It Simple, Stupid).
 Up to 3 members~
 ---
 
-*Last Updated: 2026APR14*
+*Last Updated: 2026APR25*
 
