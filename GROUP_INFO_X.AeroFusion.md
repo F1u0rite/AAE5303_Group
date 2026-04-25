@@ -28,6 +28,7 @@ We chose the name "X‑AeroFusion Group" because we are a student team focusing 
 - **Brief Introduction:** CHEN Xiting is interested in interactive design and using Arduino to bring ideas to life.
 - **(individual) Assignment 1:** https://github.com/XitingChen-Chloe/AAE5303-assignment1
 - **(individual) Assignment 2:** https://github.com/XitingChen-Chloe/AAE5303-assignment2
+- **(individual) Reflection Report:** https://github.com/XitingChen-Chloe/AAE5303_Reflection_Report
 
 ## Group Projects
 - **(group) Final project:** https://github.com/X-AeroFusion-Group/final-project
