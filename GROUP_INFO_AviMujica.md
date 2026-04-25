@@ -40,7 +40,7 @@ Emotions may be unstable, but the system remains under control.
 - **Brief Introduction:** Zhengyang comes from a computer science background, with strengths in algorithms, system implementation, and software-oriented problem solving.
 - **(individual) Assignment 1:** https://github.com/billyTryToCode/assignment1
 - **(individual) Assignment 2:** https://github.com/billyTryToCode/assignment2
-- **Reflection Report:** 
+- **Reflection Report:** https://github.com/billyTryToCode/AAE5303_Reflection_Report
 
 ## Group Projects
 - **(group) Final project:** https://github.com/F1u0rite/SGMF-Nav
